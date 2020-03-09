@@ -7,6 +7,7 @@
 ## Sponsors
 
 <div>
+<h1>This is a forked version with some minor changes . The origin version can be found at https://github.com/Wolox/react-chat-widget </h1>
     <br/>
     <p align="center">
         <a href="https://getstream.io/chat/?utm_source=github&utm_medium=react-chat-widget&utm_campaign=sponsorship" target="_blank">
